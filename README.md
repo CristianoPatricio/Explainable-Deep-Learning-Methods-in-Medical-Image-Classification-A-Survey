@@ -1,7 +1,7 @@
 # Explainable Deep Learning Methods in Medical Image Classification: A Survey
 
 ## Table of Contents:
-- [Survey Papers](#markdown-header-survey-papers)
+- [Survey Papers](#survey-papers)
 - [XAI Methods in Medical Diagnosis](#xai-methods-in-medical-diagnosis)
   - Explanation by Feature Attribution
     - Perturbation-based methods
@@ -19,6 +19,7 @@
     - Adversarial Training
 
 
+(survey-papers)=
 ## Survey Papers <span style="font-size:15px;">[:arrow_up:](#table-of-contents)</span>
 
 1. Milda Pocevičiute, Gabriel Eilertsen, and Claes Lundström <br>
