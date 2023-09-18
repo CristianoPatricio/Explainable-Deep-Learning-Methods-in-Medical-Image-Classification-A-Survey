@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 - [Survey Papers](#survey-papers)
-- XAI Methods in Medical Diagnosis
+- [XAI Methods in Medical Diagnosis](#xai-methods-in-medical-diagnosis)
   - Explanation by Feature Attribution
     - Perturbation-based methods
     - Saliency Methods
@@ -79,4 +79,5 @@ Computing Surveys (CSUR) 54, 10s (2022), 1–40* <br>
 
 <br>
 <br>
-      
+
+## XAI Methods in Medical Diagnosis <span style="font-size:15px;">[:arrow_up:](#table-of-contents)</span>
