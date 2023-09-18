@@ -18,7 +18,7 @@
     - Bayesian Approaches
     - Adversarial Training
 
-## Survey Papers <span style="font-size:15px;">[:arrow_up:](#table-of-contents)</span>
+## Survey Papers
 
 1. Milda Pocevičiute, Gabriel Eilertsen, and Claes Lundström <br>
 <span style="font-size:15px; color:#bd5d38;">**Survey of XAI in Digital Pathology**</span> <br>
@@ -79,4 +79,4 @@ Computing Surveys (CSUR) 54, 10s (2022), 1–40* <br>
 <br>
 <br>
 
-## XAI Methods in Medical Diagnosis <span style="font-size:15px;">[:arrow_up:](#table-of-contents)</span>
+## XAI Methods in Medical Diagnosis
