@@ -1,7 +1,6 @@
 # Explainable Deep Learning Methods in Medical Image Classification: A Survey
 
 ## Table of Contents:
-
 - [Survey Papers](#survey-papers)
 - XAI Methods in Medical Diagnosis
   - Explanation by Feature Attribution
