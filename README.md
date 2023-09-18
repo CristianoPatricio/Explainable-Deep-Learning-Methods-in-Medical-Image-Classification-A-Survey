@@ -18,7 +18,7 @@
     - Bayesian Approaches
     - Adversarial Training
 
-## Survey Papers <span style="font-size:15px;">[:arrow_up:](#table-of-contents)</span> {#survey-papers}
+## Survey Papers <span style="font-size:15px;">[:arrow_up:](#table-of-contents)</span>
 
 1. Milda Pocevičiute, Gabriel Eilertsen, and Claes Lundström <br>
 <span style="font-size:15px; color:#bd5d38;">**Survey of XAI in Digital Pathology**</span> <br>
