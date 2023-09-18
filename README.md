@@ -24,7 +24,7 @@
 1. Milda Pocevičiute, Gabriel Eilertsen, and Claes Lundström <br>
 <span style="font-size:15px; color:#bd5d38;">**Survey of XAI in Digital Pathology**</span> <br>
 *Artificial Intelligence and Machine Learning for Digital Pathology: State-of-the-Art and Future Challenges, 56–88, 2020* <br>
-<span style="font-size:15px;"><a href="https://arxiv.org/pdf/2008.06353.pdf" target="blank">:page_facing_up: &nbsp; Paper</a></span> 
+<span style="font-size:15px;"><a href="https://arxiv.org/pdf/2008.06353.pdf" target="blank">:page_facing_up: Paper</a></span> 
 
 <br>
 
