@@ -437,7 +437,7 @@ Application in Infectious Keratitis Classification**</span> <br>
 
 3. Siyuan Yan, Zhen Yu, Xuelin Zhang, Dwarikanath Mahapatra, Shekhar S Chandra, Monika Janda, Peter Soyer, and Zongyuan Ge<br>
 <span style="font-size:15px; color:#bd5d38;">**Towards Trustable Skin Cancer Diagnosis via Rewriting Model’s Decision**</span> <br>
-* IEEE/CVF Conference on Computer
+*IEEE/CVF Conference on Computer
 Vision and Pattern Recognition (CVPR), 11568–11577, 2023* <br>
 <span style="font-size:15px;"><a href="https://arxiv.org/abs/2303.00885" target="blank">:page_facing_up: Paper</a></span>
 
