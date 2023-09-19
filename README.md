@@ -205,7 +205,7 @@ Recognition (CVPR), 9049–9058, 2018* <br>
 
 <br>
 
-1. Christy Y Li, Xiaodan Liang, Zhiting Hu, and Eric P Xing<br>
+4. Christy Y Li, Xiaodan Liang, Zhiting Hu, and Eric P Xing<br>
 <span style="font-size:15px; color:#bd5d38;">**Hybrid Retrieval-Generation Reinforced Agent for Medical Image
 Report Generation**</span> <br>
 *International Conference on Neural Information Processing Systems (NIPS), 1537–1547, 2018* <br>
@@ -213,21 +213,21 @@ Report Generation**</span> <br>
 
 <br>
 
-4. Li Sun, Weipeng Wang, Jiyun Li, and Jingsheng Lin<br>
+5. Li Sun, Weipeng Wang, Jiyun Li, and Jingsheng Lin<br>
 <span style="font-size:15px; color:#bd5d38;">**Study on Medical Image Report Generation Based on Improved Encoding-Decoding Method**</span> <br>
 *Intelligent Computing Theories and Application, 686–696, 2019* <br>
 <span style="font-size:15px;"><a href="https://link.springer.com/chapter/10.1007/978-3-030-26763-6_66" target="blank">:page_facing_up: Paper</a></span>
 
 <br>
 
-5. Catarina Barata, Jorge S Marques, and M Emre Celebi<br>
+6. Catarina Barata, Jorge S Marques, and M Emre Celebi<br>
 <span style="font-size:15px; color:#bd5d38;">**Deep Attention Model for the Hierarchical Diagnosis of Skin Lesions**</span> <br>
 *IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2757–2765, 2019* <br>
 <span style="font-size:15px;"><a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/ISIC/Barata_Deep_Attention_Model_for_the_Hierarchical_Diagnosis_of_Skin_Lesions_CVPRW_2019_paper.pdf" target="blank">:page_facing_up: Paper</a></span>
 
 <br>
 
-6. Sonit Singh, Sarvnaz Karimi, Kevin Ho-Shon, and Len Hamey<br>
+7. Sonit Singh, Sarvnaz Karimi, Kevin Ho-Shon, and Len Hamey<br>
 <span style="font-size:15px; color:#bd5d38;">**From Chest X-Rays to Radiology Reports: A Multimodal Machine
 Learning Approach**</span> <br>
 *Digital Image Computing: Techniques and Applications (DICTA), 1–8, 2019* <br>
@@ -235,7 +235,7 @@ Learning Approach**</span> <br>
 
 <br>
 
-7. Hyebin Lee, Seong Tae Kim, and Yong Man Ro<br>
+8. Hyebin Lee, Seong Tae Kim, and Yong Man Ro<br>
 <span style="font-size:15px; color:#bd5d38;">**Generation of Multimodal Justification Using Visual Word Constraint Model
 for Explainable Computer-Aided Diagnosis**</span> <br>
 *Interpretability of Machine Intelligence in Medical Image Computing and Multimodal
@@ -244,7 +244,7 @@ Learning for Clinical Decision Support, 21–29, 2019* <br>
 
 <br>
 
-8. William Gale, Luke Oakden-Rayner, Gustavo Carneiro, Andrew P Bradley, and Lyle J Palmer<br>
+9. William Gale, Luke Oakden-Rayner, Gustavo Carneiro, Andrew P Bradley, and Lyle J Palmer<br>
 <span style="font-size:15px; color:#bd5d38;">**Producing Radiologist-Quality
 Reports for Interpretable Deep Learning**</span> <br>
 *IEEE International Symposium on Biomedical Imaging (ISBI), 1275–1279, 2019* <br>
@@ -252,7 +252,7 @@ Reports for Interpretable Deep Learning**</span> <br>
 
 <br>
 
-9. Changchang Yin, Buyue Qian, Jishang Wei, Xiaoyu Li, Xianli Zhang, Yang Li, and Qinghua Zheng<br>
+10. Changchang Yin, Buyue Qian, Jishang Wei, Xiaoyu Li, Xianli Zhang, Yang Li, and Qinghua Zheng<br>
 <span style="font-size:15px; color:#bd5d38;">**Automatic Generation of
 Medical Imaging Diagnostic Report with Hierarchical Recurrent Neural Network**</span> <br>
 *IEEE International Conference on Data Mining (ICDM), 728–737, 2019* <br>
@@ -260,21 +260,21 @@ Medical Imaging Diagnostic Report with Hierarchical Recurrent Neural Network**</
 
 <br>
 
-10. Guanxiong Liu, Tzu-Ming Harry Hsu, Matthew McDermott, Willie Boag, Wei-Hung Weng, Peter Szolovits, and Marzyeh Ghassemi <br>
+11. Guanxiong Liu, Tzu-Ming Harry Hsu, Matthew McDermott, Willie Boag, Wei-Hung Weng, Peter Szolovits, and Marzyeh Ghassemi <br>
 <span style="font-size:15px; color:#bd5d38;">**Clinically Accurate Chest X-Ray Report Generation**</span> <br>
 *Machine Learning for Healthcare Conference, 249–269, 2019* <br>
 <span style="font-size:15px;"><a href="http://proceedings.mlr.press/v106/liu19a/liu19a.pdf" target="blank">:page_facing_up: Paper</a></span>
 
 <br>
 
-11. Zhihong Chen, Yan Song, Tsung-Hui Chang, and Xiang Wan <br>
+12. Zhihong Chen, Yan Song, Tsung-Hui Chang, and Xiang Wan <br>
 <span style="font-size:15px; color:#bd5d38;">**Generating Radiology Reports via Memory-driven Transformer**</span> <br>
 *Conference on Empirical Methods in Natural Language Processing (EMNLP), 1439–1449, 2020* <br>
 <span style="font-size:15px;"><a href="https://aclanthology.org/2020.emnlp-main.112/" target="blank">:page_facing_up: Paper</a></span>
 
 <br>
 
-12. Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, and Yuexian Zou<br>
+13. Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, and Yuexian Zou<br>
 <span style="font-size:15px; color:#bd5d38;">**Exploring and Distilling Posterior and Prior Knowledge for Radiology
 Report Generation**</span> <br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition, 13753–13762, 2021* <br>
@@ -282,7 +282,7 @@ Report Generation**</span> <br>
 
 <br>
 
-13. Fenglin Liu, Changchang Yin, Xian Wu, Shen Ge, Ping Zhang, and Xu Sun<br>
+14. Fenglin Liu, Changchang Yin, Xian Wu, Shen Ge, Ping Zhang, and Xu Sun<br>
 <span style="font-size:15px; color:#bd5d38;">**Contrastive Attention for Automatic Chest X-ray
 Report Generation**</span> <br>
 *Findings of the Association for Computational Linguistics: ACL-IJCNLP, 269–280, 2021* <br>
@@ -290,21 +290,12 @@ Report Generation**</span> <br>
 
 <br>
 
-14. Zhanyu Wang, Mingkang Tang, Lei Wang, Xiu Li, and Luping Zhou<br>
+15. Zhanyu Wang, Mingkang Tang, Lei Wang, Xiu Li, and Luping Zhou<br>
 <span style="font-size:15px; color:#bd5d38;">**A Medical Semantic-Assisted Transformer for Radiographic
 Report Generation**</span> <br>
 *Medical Image Computing and Computer Assisted Intervention–MICCAI 2022: 25th International Conference,
 Singapore, September 18–22, 2022, Proceedings, Part III. 655–664* <br>
 <span style="font-size:15px;"><a href="https://arxiv.org/abs/2208.10358" target="blank">:page_facing_up: Paper</a></span>
-
-<br>
-
-15. Zhanyu Wang, Lingqiao Liu, Lei Wang, and Luping Zhou<br>
-<span style="font-size:15px; color:#bd5d38;">**METransformer: Radiology Report Generation by Transformer with
-Multiple Learnable Expert Tokens**</span> <br>
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),
-11558–11567, 2023* <br>
-<span style="font-size:15px;"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.pdf" target="blank">:page_facing_up: Paper</a></span>
 
 <br>
 
@@ -317,7 +308,16 @@ Multiple Learnable Expert Tokens**</span> <br>
 
 <br>
 
-17. Alexander Selivanov, Oleg Y Rogov, Daniil Chesakov, Artem Shelmanov, Irina Fedulova, and Dmitry V Dylov<br>
+17. Zhanyu Wang, Lingqiao Liu, Lei Wang, and Luping Zhou<br>
+<span style="font-size:15px; color:#bd5d38;">**METransformer: Radiology Report Generation by Transformer with
+Multiple Learnable Expert Tokens**</span> <br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),
+11558–11567, 2023* <br>
+<span style="font-size:15px;"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.pdf" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+18. Alexander Selivanov, Oleg Y Rogov, Daniil Chesakov, Artem Shelmanov, Irina Fedulova, and Dmitry V Dylov<br>
 <span style="font-size:15px; color:#bd5d38;">**Medical image
 captioning via generative pretrained transformers**</span> <br>
 *Scientific Reports 13, 1 (2023), 4171* <br>
