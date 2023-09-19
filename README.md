@@ -1,5 +1,7 @@
 # Explainable Deep Learning Methods in Medical Image Classification: A Survey
 
+For an interactive version of the table of the survey, allowing sorting by *year*, * interpretability method*, and *dataset*, click [here](http://socia-lab.di.ubi.pt/~cristiano_patricio/survey/). 
+
 ## Table of Contents:
 - [Survey Papers](#survey-papers)
 - [XAI Methods in Medical Diagnosis](#xai-methods-in-medical-diagnosis)
@@ -9,14 +11,14 @@
   - [Explanation by Text](#explanation-by-text)
     - [Image Captioning](#image-captioning)
     - [Concept Attribution](#concept-attribution)
-  - Explanation by Examples
-    - Case-Based Reasoning
-    - Counterfactual Explanations
-    - Prototypes
-  - Explanation by Concepts
-  - Other Approaches
-    - Bayesian Approaches
-    - Adversarial Training
+  - [Explanation by Examples](#explanation-by-examples)
+    - [Case-Based Reasoning](#case-based-reasoning)
+    - [Counterfactual Explanations](#counterfactual-explanations)
+    - [Prototypes](#prototypes)
+  - [Explanation by Concepts](#explanation-by-concepts)
+  - [Other Approaches](#other-approaches)
+    - [Bayesian Approaches](#bayesian-approaches)
+    - [Adversarial Training](#adversarial-training)
 
 ## Survey Papers
 
@@ -340,7 +342,152 @@ decisions to physicians**</span> <br>
 
 <br>
 
+### Explanation by Examples
 
+#### Case-Based Reasoning
+
+1. Philipp Tschandl, Giuseppe Argenziano, Majid Razmara, and Jordan Yap<br>
+<span style="font-size:15px; color:#bd5d38;">**Diagnostic Accuracy of Content Based Dermatoscopic
+Image Retrieval with Deep Classification Features**</span> <br>
+*British Journal of Dermatology 181, 1 (2019), 155–165* <br>
+<span style="font-size:15px;"><a href="https://pubmed.ncbi.nlm.nih.gov/30207594/" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+2. Jean-Baptiste Lamy, Boomadevi Sekar, Gilles Guezennec, Jacques Bouaud, and Brigitte Séroussi<br>
+<span style="font-size:15px; color:#bd5d38;">**Explainable artificial intelligence
+for breast cancer: A visual case-based reasoning approach**</span> <br>
+*Artificial Intelligence in Medicine 94 (2019), 42–53* <br>
+<span style="font-size:15px;"><a href="https://www.sciencedirect.com/science/article/pii/S0933365718304846" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+3. Alina Jade Barnett, Fides Regina Schwartz, Chaofan Tao, Chaofan Chen, Yinhao Ren, Joseph Y Lo, and Cynthia Rudin<br>
+<span style="font-size:15px; color:#bd5d38;">**Interpretable
+Mammographic Image Classification using Case-Based Reasoning and Deep Learning**</span> <br>
+*Workshop on Deep Learning, Case-Based
+Reasoning, and AutoML: Present and Future Synergies - IJCAI, 2021* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/2107.05605" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+4. Catarina Barata and Carlos Santiago<br>
+<span style="font-size:15px; color:#bd5d38;">**Improving the Explainability of Skin Cancer Diagnosis Using CBIR**</span> <br>
+*International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 550–559, 2021* <br>
+<span style="font-size:15px;"><a href="https://link.springer.com/chapter/10.1007/978-3-030-87199-4_52" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+#### Counterfactual Explanations
+
+1. Junho Kim, Minsu Kim, and Yong Man Ro<br>
+<span style="font-size:15px; color:#bd5d38;">**Interpretation of Lesional Detection via Counterfactual Generation**</span> <br>
+*IEEE International Conference on Image Processing (ICIP), 96–100, 2021* <br>
+<span style="font-size:15px;"><a href="https://ieeexplore.ieee.org/document/9506282" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+2. Kathryn Schutte, Olivier Moindrot, Paul Hérent, Jean-Baptiste Schiratti, and Simon Jégou<br>
+<span style="font-size:15px; color:#bd5d38;">**Using StyleGAN for Visual Interpretability of Deep Learning Models on Medical Images**</span> <br>
+*Medical Imaging Meets NeurIPS Workshop, 2021* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/2101.07563" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+3. Sumedha Singla, Brian Pollack, Stephen Wallace, and Kayhan Batmanghelich<br>
+<span style="font-size:15px; color:#bd5d38;">**Explaining the Black-box Smoothly - A Counterfactual Approach**</span> <br>
+*Medical Image Analysis 84 (2023), 102721* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/2101.04230" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+#### Prototypes
+
+1. Eunji Kim, Siwon Kim, Minji Seo, and Sungroh Yoon<br>
+<span style="font-size:15px; color:#bd5d38;">**XProtoNet: Diagnosis in Chest Radiography with Global and Local
+Explanations**</span> <br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 15719–15728, 2021* <br>
+<span style="font-size:15px;"><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_XProtoNet_Diagnosis_in_Chest_Radiography_With_Global_and_Local_Explanations_CVPR_2021_paper.pdf" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+2. Gurmail Singh and Kin-Choong Yow<br>
+<span style="font-size:15px; color:#bd5d38;">**An Interpretable Deep Learning Model For Covid-19 Detection With Chest X-ray Images**</span> <br>
+*IEEE Access 9 (2021), 85198–85208* <br>
+<span style="font-size:15px;"><a href="https://ieeexplore.ieee.org/document/9448270" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+### Explanation by Concepts
+
+1. Zhengqing Fang, Kun Kuang, Yuxiao Lin, Fei Wu, and Yu-Feng Yao<br>
+<span style="font-size:15px; color:#bd5d38;">**Concept-based Explanation for Fine-grained Images and Its
+Application in Infectious Keratitis Classification**</span> <br>
+*ACM International Conference on Multimedia, 700–708, 2020* <br>
+<span style="font-size:15px;"><a href="https://dl.acm.org/doi/10.1145/3394171.3413557" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+2. Mert Yuksekgonul, Maggie Wang, and James Zou<br>
+<span style="font-size:15px; color:#bd5d38;">**Post-hoc concept bottleneck models**</span> <br>
+*arXiv preprint arXiv:2205.15480 (2022)* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/2205.15480" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+3. Siyuan Yan, Zhen Yu, Xuelin Zhang, Dwarikanath Mahapatra, Shekhar S Chandra, Monika Janda, Peter Soyer, and Zongyuan Ge<br>
+<span style="font-size:15px; color:#bd5d38;">**Towards Trustable Skin Cancer Diagnosis via Rewriting Model’s Decision**</span> <br>
+* IEEE/CVF Conference on Computer
+Vision and Pattern Recognition (CVPR), 11568–11577, 2023* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/2303.00885" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+4. Cristiano Patrício, João C. Neves, and Luis F. Teixeira<br>
+<span style="font-size:15px; color:#bd5d38;">**Coherent Concept-based Explanations in Medical Image and Its Application
+to Skin Lesion Diagnosis**</span> <br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW),
+3799–3808, 2023* <br>
+<span style="font-size:15px;"><a href="https://openaccess.thecvf.com/content/CVPR2023W/SAIAD/papers/Patricio_Coherent_Concept-Based_Explanations_in_Medical_Image_and_Its_Application_to_CVPRW_2023_paper.pdf" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+### Other Approaches
+
+#### Bayesian Approaches
+
+1. Ponkrshnan Thiagarajan, Pushkar Khairnar, and Susanta Ghosh<br>
+<span style="font-size:15px; color:#bd5d38;">**Explanation and Use of Uncertainty Obtained by Bayesian
+Neural Network Classifiers for Breast Histopathology Images**</span> <br>
+*IEEE Transactions on Medical Imaging 41, 4 (2021), 815–825* <br>
+<span style="font-size:15px;"><a href="https://ieeexplore.ieee.org/document/9585450" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+2. Mohammad Ehtasham Billah and Farrukh Javed <br>
+<span style="font-size:15px; color:#bd5d38;">**Bayesian Convolutional Neural Network-based Models for Diagnosis of Blood
+Cancer**</span> <br>
+*Applied Artificial Intelligence (2022), 1–22* <br>
+<span style="font-size:15px;"><a href="https://www.tandfonline.com/doi/full/10.1080/08839514.2021.2011688" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+3. Mahesh Gour and Sweta Jain<br>
+<span style="font-size:15px; color:#bd5d38;">**Uncertainty-aware convolutional neural network for COVID-19 X-ray images classification**</span> <br>
+*Computers in Biology and Medicine 140 (2022), 105047* <br>
+<span style="font-size:15px;"><a href="https://www.sciencedirect.com/science/article/pii/S0010482521008416" target="blank">:page_facing_up: &nbsp; Paper</a></span>
+
+<br>
+
+#### Adversarial Training
+
+1. Andrei Margeloiu, Nikola Simidjievski, Mateja Jamnik, and Adrian Weller<br>
+<span style="font-size:15px; color:#bd5d38;">**Improving Interpretability in Medical Imaging
+Diagnosis using Adversarial Training**</span> <br>
+*Medical Imaging Meets NeurIPS Workshop, 2020* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/2012.01166" target="blank">:page_facing_up: &nbsp; Paper</a></span>
+
+<br>
 
 
 
