@@ -2,6 +2,8 @@
 
 For an interactive version of the table of the survey, allowing sorting by *year*, *interpretability method*, and *dataset*, <a href="http://socia-lab.di.ubi.pt/~cristiano_patricio/survey/" target="blank">click here</a>. 
 
+![Interactive Table](https://github.com/CristianoPatricio/Explainable-Deep-Learning-Methods-in-Medical-Image-Classification-A-Survey/blob/main/table.gif)
+
 ## Table of Contents:
 - [Survey Papers](#survey-papers)
 - [XAI Methods in Medical Diagnosis](#xai-methods-in-medical-diagnosis)
