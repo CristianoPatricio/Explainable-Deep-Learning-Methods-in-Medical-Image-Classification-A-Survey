@@ -3,9 +3,9 @@
 ## Table of Contents:
 - [Survey Papers](#survey-papers)
 - [XAI Methods in Medical Diagnosis](#xai-methods-in-medical-diagnosis)
-  - Explanation by Feature Attribution
-    - Perturbation-based methods
-    - Saliency Methods
+  - [Explanation by Feature Attribution](#explanation-by-feature-attribution)
+    - [Perturbation-based methods](#perturbation-based-methods)
+    - [Saliency Methods](#saliency-methods)
   - Explanation by Text
     - Image Captioning
     - Concept Attribution
@@ -80,3 +80,56 @@ Computing Surveys (CSUR) 54, 10s (2022), 1–40* <br>
 <br>
 
 ## XAI Methods in Medical Diagnosis
+
+### Explanation by Feature Attribution
+
+#### Perturbation-based methods
+
+1. Avleen Malhi, Timotheus Kampik, Husanbir Pannu, Manik Madhikermi, and Kary Främling<br>
+<span style="font-size:15px; color:#bd5d38;">**Explaining Machine Learning-Based
+Classifications of In-Vivo Gastral Images**</span> <br>
+*Digital Image Computing: Techniques and Applications (DICTA), 1–7, 2019* <br>
+<span style="font-size:15px;"><a href="https://ieeexplore.ieee.org/document/8945986" target="blank">:page_facing_up: &nbsp; Paper</a></span>
+
+<br>
+
+2. Kyle Young, Gareth Booth, Becks Simpson, Reuben Dutton, and Sally Shrapnel<br>
+<span style="font-size:15px; color:#bd5d38;">**Deep Neural Network or Dermatologist?**</span> <br>
+*Interpretability of Machine Intelligence in Medical Image Computing and Multimodal Learning for Clinical Decision Support, 48–55, 2019* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/1908.06612" target="blank">:page_facing_up: &nbsp; Paper</a></span>
+
+<br>
+
+3. Fabian Eitel and Kerstin Ritter for the Alzheimer’s Disease Neuroimaging Initiative (ADNI)<br>
+<span style="font-size:15px; color:#bd5d38;">**Testing the Robustness of Attribution
+Methods for Convolutional Neural Networks in MRI-Based Alzheimer’s Disease Classification**</span> <br>
+*Medical Image Computing and Multimodal Learning for Clinical Decision Support (IMIMIC), 3–11, 2019* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/1909.08856" target="blank">:page_facing_up: &nbsp; Paper</a></span>
+
+<br>
+
+4. Pavan Rajkumar Magesh, Richard Delwin Myloth, and Rijo Jackson Tom<br>
+<span style="font-size:15px; color:#bd5d38;">**An Explainable Machine Learning Model for Early
+Detection of Parkinson’s Disease using LIME on DaTscan Imagery**</span> <br>
+*Computers in Biology and Medicine 126 (2020), 104041* <br>
+<span style="font-size:15px;"><a href="https://www.sciencedirect.com/science/article/pii/S0010482520303723" target="blank">:page_facing_up: &nbsp; Paper</a></span>
+
+<br>
+
+5. Narinder Singh Punn and Sonali Agarwal<br>
+<span style="font-size:15px; color:#bd5d38;">**Automated diagnosis of COVID-19 with limited posteroanterior chest X-ray images
+using fine-tuned deep neural networks**</span> <br>
+*Applied Intelligence 51, 5 (2021), 2689–2702* <br>
+<span style="font-size:15px;"><a href="https://link.springer.com/article/10.1007/s10489-020-01900-3" target="blank">:page_facing_up: &nbsp; Paper</a></span>
+
+<br>
+
+6. Sutong Wang, Yunqiang Yin, Dujuan Wang, Yanzhang Wang, and Yaochu Jin<br>
+<span style="font-size:15px; color:#bd5d38;">**Interpretability-Based Multimodal Convolutional
+Neural Networks for Skin Lesion Diagnosis**</span> <br>
+*IEEE Transactions on Cybernetics (2021)* <br>
+<span style="font-size:15px;"><a href="https://pubmed.ncbi.nlm.nih.gov/34546933/" target="blank">:page_facing_up: &nbsp; Paper</a></span>
+
+<br>
+
+#### Saliency Methods
