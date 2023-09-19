@@ -6,9 +6,9 @@
   - [Explanation by Feature Attribution](#explanation-by-feature-attribution)
     - [Perturbation-based methods](#perturbation-based-methods)
     - [Saliency Methods](#saliency-methods)
-  - Explanation by Text
-    - Image Captioning
-    - Concept Attribution
+  - [Explanation by Text](#explanation-by-text)
+    - [Image Captioning](#image-captioning)
+    - [Concept Attribution](#concept-attribution)
   - Explanation by Examples
     - Case-Based Reasoning
     - Counterfactual Explanations
@@ -141,7 +141,7 @@ Neural Networks for Skin Lesion Diagnosis**</span> <br>
 
 <br>
 
-1. Rory Sayres, Ankur Taly, Ehsan Rahimy, Katy Blumer, David Coz, Naama Hammel, Jonathan Krause, Arunachalam Narayanaswamy,
+2. Rory Sayres, Ankur Taly, Ehsan Rahimy, Katy Blumer, David Coz, Naama Hammel, Jonathan Krause, Arunachalam Narayanaswamy,
 Zahra Rastegar, Derek Wu, et al.<br>
 <span style="font-size:15px; color:#bd5d38;">**Using a Deep Learning Algorithm and Integrated Gradients Explanation to Assist Grading for
 Diabetic Retinopathy**</span> <br>
@@ -150,7 +150,7 @@ Diabetic Retinopathy**</span> <br>
 
 <br>
 
-1. Tsung-Chieh Lin and Hsi-Chieh Lee<br>
+3. Tsung-Chieh Lin and Hsi-Chieh Lee<br>
 <span style="font-size:15px; color:#bd5d38;">**Covid-19 Chest Radiography Images Analysis Based on Integration of Image Preprocess, Guided Grad-CAM, Machine Learning and Risk Management**</span> <br>
 *International Conference on Medical and Health
 Informatics (ICMHI), 281-288, 2020* <br>
@@ -158,7 +158,7 @@ Informatics (ICMHI), 281-288, 2020* <br>
 
 <br>
 
-1. Alina Lopatina, Stefan Ropele, Renat Sibgatulin, Jürgen R Reichenbach, and Daniel Güllmar<br>
+4. Alina Lopatina, Stefan Ropele, Renat Sibgatulin, Jürgen R Reichenbach, and Daniel Güllmar<br>
 <span style="font-size:15px; color:#bd5d38;">**Investigation of Deep-Learning-
 Driven Identification of Multiple Sclerosis Patients Based on Susceptibility-Weighted Images Using Relevance Analysis**</span> <br>
 *Frontiers in Neuroscience (2020), 1356* <br>
@@ -166,10 +166,182 @@ Driven Identification of Multiple Sclerosis Patients Based on Susceptibility-Wei
 
 <br>
 
-1. Isabel Rio-Torto, Kelwin Fernandes, and Luís Teixeira<br>
+5. Isabel Rio-Torto, Kelwin Fernandes, and Luís Teixeira<br>
 <span style="font-size:15px; color:#bd5d38;">**Understanding the decisions of CNNs: An in-model approach**</span> <br>
 *Pattern
 Recognition Letters 133 (2020), 373–380* <br>
 <span style="font-size:15px;"><a href="https://www.sciencedirect.com/science/article/pii/S0167865520301240" target="blank">:page_facing_up: Paper</a></span>
 
 <br>
+
+### Explanation by Text
+
+#### Image Captioning
+
+1. Zizhao Zhang, Yuanpu Xie, Fuyong Xing, Mason McGough, and Lin Yang <br>
+<span style="font-size:15px; color:#bd5d38;">**MDNet: A Semantically and Visually Interpretable
+Medical Image Diagnosis Network**</span> <br>
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 6428–6436, 2017* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/1707.02485" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+2. Baoyu Jing, Pengtao Xie, and Eric Xing <br>
+<span style="font-size:15px; color:#bd5d38;">**On the Automatic Generation of Medical Imaging Reports**</span> <br>
+*56th
+Annual Meeting of the Association for Computational Linguistics (ACL), 2018* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/1711.08195" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+3. Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, and Ronald Summers<br>
+<span style="font-size:15px; color:#bd5d38;">**TieNet: Text-Image Embedding Network for Common
+Thorax Disease Classification and Reporting in Chest X-rays**</span> <br>
+*IEEE Conference on Computer Vision and Pattern
+Recognition (CVPR), 9049–9058, 2018* <br>
+<span style="font-size:15px;"><a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_TieNet_Text-Image_Embedding_CVPR_2018_paper.pdf" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+1. Christy Y Li, Xiaodan Liang, Zhiting Hu, and Eric P Xing<br>
+<span style="font-size:15px; color:#bd5d38;">**Hybrid Retrieval-Generation Reinforced Agent for Medical Image
+Report Generation**</span> <br>
+*International Conference on Neural Information Processing Systems (NIPS), 1537–1547, 2018* <br>
+<span style="font-size:15px;"><a href="https://proceedings.neurips.cc/paper_files/paper/2018/file/e07413354875be01a996dc560274708e-Paper.pdf" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+4. Li Sun, Weipeng Wang, Jiyun Li, and Jingsheng Lin<br>
+<span style="font-size:15px; color:#bd5d38;">**Study on Medical Image Report Generation Based on Improved Encoding-Decoding Method**</span> <br>
+*Intelligent Computing Theories and Application, 686–696, 2019* <br>
+<span style="font-size:15px;"><a href="https://link.springer.com/chapter/10.1007/978-3-030-26763-6_66" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+5. Catarina Barata, Jorge S Marques, and M Emre Celebi<br>
+<span style="font-size:15px; color:#bd5d38;">**Deep Attention Model for the Hierarchical Diagnosis of Skin Lesions**</span> <br>
+*IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2757–2765, 2019* <br>
+<span style="font-size:15px;"><a href="https://openaccess.thecvf.com/content_CVPRW_2019/papers/ISIC/Barata_Deep_Attention_Model_for_the_Hierarchical_Diagnosis_of_Skin_Lesions_CVPRW_2019_paper.pdf" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+6. Sonit Singh, Sarvnaz Karimi, Kevin Ho-Shon, and Len Hamey<br>
+<span style="font-size:15px; color:#bd5d38;">**From Chest X-Rays to Radiology Reports: A Multimodal Machine
+Learning Approach**</span> <br>
+*Digital Image Computing: Techniques and Applications (DICTA), 1–8, 2019* <br>
+<span style="font-size:15px;"><a href="https://ieeexplore.ieee.org/document/8945819" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+7. Hyebin Lee, Seong Tae Kim, and Yong Man Ro<br>
+<span style="font-size:15px; color:#bd5d38;">**Generation of Multimodal Justification Using Visual Word Constraint Model
+for Explainable Computer-Aided Diagnosis**</span> <br>
+*Interpretability of Machine Intelligence in Medical Image Computing and Multimodal
+Learning for Clinical Decision Support, 21–29, 2019* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/1906.03922" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+8. William Gale, Luke Oakden-Rayner, Gustavo Carneiro, Andrew P Bradley, and Lyle J Palmer<br>
+<span style="font-size:15px; color:#bd5d38;">**Producing Radiologist-Quality
+Reports for Interpretable Deep Learning**</span> <br>
+*IEEE International Symposium on Biomedical Imaging (ISBI), 1275–1279, 2019* <br>
+<span style="font-size:15px;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8759236" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+9. Changchang Yin, Buyue Qian, Jishang Wei, Xiaoyu Li, Xianli Zhang, Yang Li, and Qinghua Zheng<br>
+<span style="font-size:15px; color:#bd5d38;">**Automatic Generation of
+Medical Imaging Diagnostic Report with Hierarchical Recurrent Neural Network**</span> <br>
+*IEEE International Conference on Data Mining (ICDM), 728–737, 2019* <br>
+<span style="font-size:15px;"><a href="https://ieeexplore.ieee.org/document/8970668" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+10. Guanxiong Liu, Tzu-Ming Harry Hsu, Matthew McDermott, Willie Boag, Wei-Hung Weng, Peter Szolovits, and Marzyeh Ghassemi <br>
+<span style="font-size:15px; color:#bd5d38;">**Clinically Accurate Chest X-Ray Report Generation**</span> <br>
+*Machine Learning for Healthcare Conference, 249–269, 2019* <br>
+<span style="font-size:15px;"><a href="http://proceedings.mlr.press/v106/liu19a/liu19a.pdf" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+11. Zhihong Chen, Yan Song, Tsung-Hui Chang, and Xiang Wan <br>
+<span style="font-size:15px; color:#bd5d38;">**Generating Radiology Reports via Memory-driven Transformer**</span> <br>
+*Conference on Empirical Methods in Natural Language Processing (EMNLP), 1439–1449, 2020* <br>
+<span style="font-size:15px;"><a href="https://aclanthology.org/2020.emnlp-main.112/" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+12. Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, and Yuexian Zou<br>
+<span style="font-size:15px; color:#bd5d38;">**Exploring and Distilling Posterior and Prior Knowledge for Radiology
+Report Generation**</span> <br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition, 13753–13762, 2021* <br>
+<span style="font-size:15px;"><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.pdf" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+13. Fenglin Liu, Changchang Yin, Xian Wu, Shen Ge, Ping Zhang, and Xu Sun<br>
+<span style="font-size:15px; color:#bd5d38;">**Contrastive Attention for Automatic Chest X-ray
+Report Generation**</span> <br>
+*Findings of the Association for Computational Linguistics: ACL-IJCNLP, 269–280, 2021* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/2106.06965" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+14. Zhanyu Wang, Mingkang Tang, Lei Wang, Xiu Li, and Luping Zhou<br>
+<span style="font-size:15px; color:#bd5d38;">**A Medical Semantic-Assisted Transformer for Radiographic
+Report Generation**</span> <br>
+*Medical Image Computing and Computer Assisted Intervention–MICCAI 2022: 25th International Conference,
+Singapore, September 18–22, 2022, Proceedings, Part III. 655–664* <br>
+<span style="font-size:15px;"><a href="https://arxiv.org/abs/2208.10358" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+15. Zhanyu Wang, Lingqiao Liu, Lei Wang, and Luping Zhou<br>
+<span style="font-size:15px; color:#bd5d38;">**METransformer: Radiology Report Generation by Transformer with
+Multiple Learnable Expert Tokens**</span> <br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),
+11558–11567, 2023* <br>
+<span style="font-size:15px;"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.pdf" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+16. Zhanyu Wang, Lingqiao Liu, Lei Wang, and Luping Zhou<br>
+<span style="font-size:15px; color:#bd5d38;">**METransformer: Radiology Report Generation by Transformer with
+Multiple Learnable Expert Tokens**</span> <br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),
+11558–11567, 2023* <br>
+<span style="font-size:15px;"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.pdf" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+17. Alexander Selivanov, Oleg Y Rogov, Daniil Chesakov, Artem Shelmanov, Irina Fedulova, and Dmitry V Dylov<br>
+<span style="font-size:15px; color:#bd5d38;">**Medical image
+captioning via generative pretrained transformers**</span> <br>
+*Scientific Reports 13, 1 (2023), 4171* <br>
+<span style="font-size:15px;"><a href="https://www.nature.com/articles/s41598-023-31223-5" target="blank">:page_facing_up: &nbsp; Paper</a></span>
+
+<br>
+
+#### Concept Attribution
+
+1. Mara Graziani, Vincent Andrearczyk, Stéphane Marchand-Maillet, and Henning Müller<br>
+<span style="font-size:15px; color:#bd5d38;">**Concept attribution: Explaining CNN
+decisions to physicians**</span> <br>
+*Computers in Biology and Medicine 123 (2020), 103865* <br>
+<span style="font-size:15px;"><a href="https://www.sciencedirect.com/science/article/pii/S0010482520302225" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+2. Adriano Lucieri, Muhammad Naseer Bajwa, Stephan Alexander Braun, Muhammad Imran Malik, Andreas Dengel, and Sheraz Ahmed<br>
+<span style="font-size:15px; color:#bd5d38;">**ExAID: A Multimodal Explanation Framework for Computer-Aided Diagnosis of Skin Lesions**</span> <br>
+*Computer Methods and Programs in Biomedicine (2022), 106620* <br>
+<span style="font-size:15px;"><a href="https://www.sciencedirect.com/science/article/pii/S0169260722000050" target="blank">:page_facing_up: Paper</a></span>
+
+<br>
+
+
+
+
+
+
