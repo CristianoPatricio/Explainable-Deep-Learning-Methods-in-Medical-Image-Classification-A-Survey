@@ -1,6 +1,6 @@
 # Explainable Deep Learning Methods in Medical Image Classification: A Survey
 
-For an interactive version of the table of the survey, allowing sorting by *year*, *interpretability method*, and *dataset*, click [here](http://socia-lab.di.ubi.pt/~cristiano_patricio/survey/). 
+For an interactive version of the table of the survey, allowing sorting by *year*, *interpretability method*, and *dataset*, <a href="http://socia-lab.di.ubi.pt/~cristiano_patricio/survey/" target="blank">click here</a>. 
 
 ## Table of Contents:
 - [Survey Papers](#survey-papers)
