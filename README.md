@@ -6,6 +6,23 @@ For an interactive version of the table of the survey, allowing sorting by *year
 
 ![Interactive Table](https://github.com/CristianoPatricio/Explainable-Deep-Learning-Methods-in-Medical-Image-Classification-A-Survey/blob/main/table.gif)
 
+## Citation
+
+If you use this repository, please cite:
+
+```
+@article{patricio2023explainable,
+  title={Explainable Deep Learning Methods in Medical Image Classification: A Survey},
+  author={Patr{\'\i}cio, Cristiano and Neves, Jo{\~a}o C and Teixeira, Lu{\'\i}s F},
+  journal={ACM Computing Surveys},
+  volume={56},
+  number={4},
+  pages={1--41},
+  year={2023}
+}
+```
+
+
 ## Table of Contents:
 - [Survey Papers](#survey-papers)
 - [XAI Methods in Medical Diagnosis](#xai-methods-in-medical-diagnosis)
