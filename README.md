@@ -2,7 +2,7 @@
 
 ![XAI Categorization](https://github.com/CristianoPatricio/Explainable-Deep-Learning-Methods-in-Medical-Image-Classification-A-Survey/blob/main/xai_categorization.png)
 
-For an interactive version of the table of the survey, allowing sorting by *year*, *interpretability method*, and *dataset*, <a href="http://socia-lab.di.ubi.pt/~cristiano_patricio/survey/" target="blank">click here</a>. 
+For an interactive version of the table of the survey, allowing sorting by *year*, *interpretability method*, and *dataset*, <a href="https://cristianopatricio.github.io/research/interactive-table-survey/index.html" target="blank">click here</a>. 
 
 ![Interactive Table](https://github.com/CristianoPatricio/Explainable-Deep-Learning-Methods-in-Medical-Image-Classification-A-Survey/blob/main/table.gif)
 
